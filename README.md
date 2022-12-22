@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiswaryaasudhakaran&border_radius=4&background=000000FD&border=FFEC0F&ring=FFF638&fire=DD0000&sideLabels=FFFC2D&currStreakNum=FFFFFF&stroke=FAFF14&sideNums=FFFFFF&currStreakLabel=0FFFF4&dates=D5C6FF)](https://git.io/streak-stats)
+
 <!--
 **aiswaryaasudhakaran/aiswaryaasudhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
